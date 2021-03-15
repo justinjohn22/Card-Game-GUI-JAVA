@@ -1,0 +1,5 @@
+Suit .PNGs adapted from http://sweetclipart.com/set-playing-card-suits-1247
+License public domain
+
+The 28 'half deck' card images in cards/ generated programmatically in Java by Caspar :)
+License public domain
